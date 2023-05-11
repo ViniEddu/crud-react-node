@@ -1,0 +1,21 @@
+.card__container {
+    width: 250px;
+    border: 3px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.card__title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card__category {
+    margin-top: 5px;
+}
+
+.card__container:hover {
+    background-color: antiquewhite;
+}
+
